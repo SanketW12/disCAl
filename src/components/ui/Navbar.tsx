@@ -1,11 +1,3 @@
-/* eslint-disable jsx-a11y/no-noninteractive-element-interactions */
-/* eslint-disable jsx-a11y/click-events-have-key-events */
-/* eslint-disable @typescript-eslint/explicit-function-return-type */
-/* eslint-disable unicorn/consistent-function-scoping */
-/* eslint-disable react/require-default-props */
-/* eslint-disable react/boolean-prop-naming */
-/* eslint-disable @typescript-eslint/no-misused-promises */
-/* eslint-disable react/jsx-handler-names */
 import logo from "../../assets/navbarlogo.png";
 
 function Navbar() {
